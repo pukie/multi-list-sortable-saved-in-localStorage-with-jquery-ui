@@ -1,0 +1,16 @@
+{
+  "name": "sortable multi lists",
+  "version": "0.0.1",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": "1.4.7",
+    "bootstrap": "~3.3.0",
+    "jquery": "~2.1.3",
+    "jquery-ui": "^1.12.0"
+  }
+}
